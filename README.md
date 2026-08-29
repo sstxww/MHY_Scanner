@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="docs/assets/readme-banner.svg" alt="Repository overview banner" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows" />
+  <img alt="Version" src="https://img.shields.io/badge/Version-v1.1.15-DB2777?style=flat-square" />
+  <img alt="Login" src="https://img.shields.io/badge/Login-QR_capture-4F46E5?style=flat-square" />
+  <img alt="Accounts" src="https://img.shields.io/badge/Accounts-Multi--account-16A34A?style=flat-square" />
+</p>
+
+<p align="center"><a href="#功能和特性">功能</a> · <a href="#目前可用的平台">支持游戏</a> · <a href="#使用说明">使用说明</a> · <a href="#编译">编译</a></p>
+
+## 一眼看懂
+
+| 维度 | 说明 |
+| --- | --- |
+| 用途 | 从屏幕或直播流识别二维码，辅助米哈游游戏账号登录 |
+| 账号管理 | 表格化管理多个账号，并支持自定义备注 |
+| 当前游戏 | 崩坏 3、原神、崩坏：星穹铁道、绝区零（具体渠道以下表为准） |
+| 直播来源 | 现有说明列出 B 站与抖音直播间 RID |
+| 分发提示 | 下方 Star 与 Releases 地址仍指向 `Theresa-0328/MHY_Scanner` 上游仓库 |
+
+> 下载构建产物前，请先确认你要使用的是本仓库版本还是上游 Release，避免代码与二进制版本不一致。
+
+---
+
 ﻿# MHY_Scanner
 
 <div align="center">
